@@ -1,3 +1,6 @@
 [submodule "ports/cyanshaderlib"]
 	path = ports/cyanshaderlib
 	url = https://github.com/Sammot/CyanShaderLib.git
+[submodule "ports/cyanlogger"]
+	path = ports/cyanlogger
+	url = https://github.com/Sammot/CyanLogger.git
