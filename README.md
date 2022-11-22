@@ -1,2 +1,2 @@
-# vcpkg-registry
+# My personal vcpkg registry (cyanseraph)
  
